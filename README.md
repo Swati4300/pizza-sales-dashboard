@@ -28,7 +28,7 @@ This project demonstrates how to extract, clean, and analyze sales data, and bui
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshotpizzadashboard.png)
+![Dashboard Screenshot](scrrenshotpizzadashboard.png)
 
 ---
 
